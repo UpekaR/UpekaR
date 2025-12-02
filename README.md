@@ -53,7 +53,7 @@
 - 🛡️ **Browser Extension** — Detecting high-risk and unsafe websites  
 - 🤖 **AI Chatbot for Moodle** — Real-time Q&A for students  
 - 🌐 **Web Development Portfolio**  
-- 📚 Coursework: Databases, Computer Networks & Architecture, system analysis, Optimization theory, Cryptography, Advanced Software Dev  
+- 📚 Coursework: Data Structures & Algorithms, Databases, Computer Networks & Architecture, Optimization Theory, Advanced Software Dev  
 
 ---
 
@@ -68,9 +68,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Upeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpekaR&show_icons=true&theme=radical)
+[Upeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpekaR&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UpekaR&layout=compact&theme=radical)
+Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UpekaR&layout=compact&theme=radical)
 
 ---
 
