@@ -53,7 +53,7 @@
 - 🛡️ **Browser Extension** — Detecting high-risk and unsafe websites  
 - 🤖 **AI Chatbot for Moodle** — Real-time Q&A for students  
 - 🌐 **Web Development Portfolio**  
-- 📚 Coursework: Data Structures & Algorithms, Databases, Computer Networks & Architecture, Optimization Theory, Advanced Software Dev  
+- 📚 Coursework: Data Structures & Algorithms, Databases, Computer Networks & Architecture, Advanced Software Dev  
 
 ---
 
