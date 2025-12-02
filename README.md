@@ -69,7 +69,7 @@
 
 ## 📫 Connect With Me
 **Email:** upekarathnayaka0@icloud.com  
-**LinkedIn:** www.linkedin.com/in/upeka-rathnayaka
+**LinkedIn:** www.linkedin.com/in/upeka-rathnayaka <br>
 **Portfolio:** https://upekarathnayaka.pro/ 
 
 ---
