@@ -67,13 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-[Upeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpekaR&show_icons=true&theme=radical)
-
-Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UpekaR&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 **Email:** upekarathnayaka0@icloud.com  
 **LinkedIn:** www.linkedin.com/in/upeka-rathnayaka
