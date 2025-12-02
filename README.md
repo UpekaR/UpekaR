@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Upeka Rathnayaka**
 
 ### 🚀 CS Final Year | Cybersecurity | Web Development | Python Automation | C++  
-### 💡 Passionate about Cybersecurity | Committed to continuous learning
+### 💡 Passionate about Cybersecurity | Leveling up with precision and discipline
 ---
 
 ## 🌟 About Me
