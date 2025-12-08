@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Final-year **Computer Science** student  
+- 🎓 Final-year **Computer Science** student Based in Riga, Latvia 
 - 🔐 Strong interest in **Cybersecurity** — my long-term career direction  
 - 💻 Solid foundation in **C++** and system-level problem solving  
 - 🐍 Interested in **Python automation & scripting**  
