@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **Upeka Rathnayaka**
 
 ### 🚀 CS Final Year | Cybersecurity | Web Development | Python Automation | C++  
-### 💡 Passionate about Cybersecurity | Leveling up with precision and discipline
+### ⚡ Building real-world systems with precision, discipline, and long-term vision  
+
 ---
 
 ## 🌟 About Me
@@ -9,17 +10,34 @@
 - 🔐 Strong interest in **Cybersecurity** — my long-term career direction  
 - 💻 Solid foundation in **C++** and system-level problem solving  
 - 🐍 Interested in **Python automation & scripting**  
-- 👩‍💻 Currently building a **browser extension for identifying high-risk websites**  
+- 👩‍💻 Currently building a **browser extension for identifying high-risk websites**
 
-### 📘 Currently Learning
-- 🛡️ **Cybersecurity** (Google Cybersecurity Certificate + hands-on mini-projects)  
-- 🧩 **Full-Stack Development** (Meta Front-End + Back-End certificates)  
-- 📊 **Project Management** (Google PM Certificate – Agile, Scrum, workflows, documentation)  
+I combine **technical skills, research, and real-world practice** to build a strong foundation for the IT industry.
 
-### 🎯 Focus
-- 🧠 Developing strong technical skills with a primary focus on **Cybersecurity**  
-- 🚀 Building a solid IT career through learning, practice, and real-world projects  
-- 📚 Improving step by step and expanding my portfolio
+---
+
+## 📊 GitHub Stats
+![Upeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 💼 Experience & Research
+
+### 🌐 WordPress Credits Program (Ongoing)
+- Contributing to real-world **WordPress ecosystem tasks and projects**  
+- Gaining hands-on experience in **web development, debugging, and collaboration workflows**  
+- Working under mentorship in an international developer environment  
+
+### 🛡️ SIEM & Cybersecurity Research
+- Exploring **Security Information and Event Management (SIEM)** concepts  
+- Studying threat detection, log analysis, and security monitoring systems  
+- Building foundational knowledge for real-world cybersecurity operations  
+
+### 📊 Reichheld Loyalty-Based Research
+- Researching **customer loyalty models based on Reichheld’s framework**  
+- Connecting **business intelligence with technical systems and data analysis**  
+- Preparing for academic publication and conference-level work  
 
 ---
 
@@ -49,21 +67,18 @@
 
 ---
 
-## 📌 Current Projects
-- 🛡️ **Browser Extension** — Detecting high-risk and unsafe websites  
-- 🤖 **AI Chatbot for Moodle** — Real-time Q&A for students  
-- 🌐 **Web Development Portfolio**  
-- 📚 Coursework: Data Structures & Algorithms, Databases, Computer Networks & Architecture, Advanced Software Dev  
+## 🏆 Certifications & Learning
+- 🛡️ Google Cybersecurity Certificate *(in progress)*  
+- 🌐 Meta Front-End & Back-End Development *(in progress)*  
+- 📊 Google Project Management Certificate *(in progress)*  
 
 ---
 
-## 🎯 Goals for 2025
-- Strengthen cybersecurity fundamentals  
-- Build 5–7 strong GitHub projects  
-- Complete Google PM Certificate & Meta Full-Stack Certificates  
-- Improve backend + frontend development skills  
-- Learn German, Italian & Latvian  
-- Build a clean, professional personal portfolio website  
+## 🎯 2026 Goals
+- Build **5–7 strong portfolio projects**  
+- Gain **internship / junior IT role**  
+- Strengthen cybersecurity + development expertise  
+- Develop a strong **professional presence online**  
 
 ---
 
